@@ -6,20 +6,12 @@ Hasznos például laborkörnyezetekben, demókban vagy monitoring rendszerek tes
 
 ---
 
-## 🚀 Telepítés
-
-```bash
-git clone https://github.com/sajatuser/fake-ip-switcher.git
-cd fake-ip-switcher
-chmod +x ip.sh
-```
-
 Bekapcsolás
 ```bash
-./ip.sh on
+./pingIp.sh on
 ```
 
 Kikapcsolás
 ```bash
-./ip.sh off
+./pingIp.sh off
 ```
